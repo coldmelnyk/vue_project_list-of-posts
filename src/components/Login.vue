@@ -2,7 +2,7 @@
 
 <template
   ><section className="container is-flex is-justify-content-center">
-    <form onSubmit="{handleSubmit}" className="box mt-5">
+    <form className="box mt-5">
       <h1 className="title is-3">You need to register"</h1>
 
       <div className="field">
