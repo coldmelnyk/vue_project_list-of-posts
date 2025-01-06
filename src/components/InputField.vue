@@ -26,7 +26,7 @@
     </div>
 
     <p className="help is-danger" data-cy="ErrorMessage">error text</p>
-  </div></template
->
+  </div>
+</template>
 
 <style scoped></style>

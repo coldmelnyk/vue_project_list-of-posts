@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
-<template
-  ><section className="container is-flex is-justify-content-center">
+<template>
+  <section className="container is-flex is-justify-content-center">
     <form className="box mt-5">
       <h1 className="title is-3">You need to register"</h1>
 

@@ -1,12 +1,12 @@
 <script lang="ts">
-import HeaderNav from "./components/HeaderNav.vue";
-import PostsList from "./components/PostsList.vue";
+import HeaderNav from './components/HeaderNav.vue';
+import PostsList from './components/PostsList.vue';
 
 export default {
   components: {
     HeaderNav,
-    PostsList,
-  },
+    PostsList
+  }
 };
 </script>
 
@@ -14,7 +14,7 @@ export default {
   <header>
     <HeaderNav />
   </header>
-  <main class="container">
+  <main class="section">
     <PostsList />
   </main>
 </template>

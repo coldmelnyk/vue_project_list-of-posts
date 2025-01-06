@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
-<template
-  ><div className="block">
+<template>
+  <div className="block">
     <div
       className="is-flex is-justify-content-space-between is-align-items-center"
     >

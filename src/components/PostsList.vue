@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+  import PostTab from './PostTab.vue';
+</script>
 
 <template>
   <div className="tile is-parent">
@@ -18,18 +20,12 @@
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td>id</td>
-              <td>title</td>
-              <td className="has-text-right is-vcentered">
-                <button type="button" className="button is-link">Open</button>
-              </td>
-            </tr>
+            <PostTab />
           </tbody>
         </table>
       </div>
     </div>
-  </div></template
->
+  </div>
+</template>
 
 <style scoped></style>

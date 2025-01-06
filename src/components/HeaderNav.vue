@@ -1,5 +1,4 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <nav className="navbar" role="navigation" aria-label="main navigation">

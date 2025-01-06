@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
-<template
-  ><div className="field" data-cy="BodyField">
+<template>
+  <div className="field" data-cy="BodyField">
     <label className="label" htmlFor="{`comment-${name}`}"> title </label>
     <div className="control">
       <textarea
