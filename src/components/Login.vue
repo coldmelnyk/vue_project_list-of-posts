@@ -3,7 +3,7 @@
 <template>
   <section className="container is-flex is-justify-content-center">
     <form className="box mt-5">
-      <h1 className="title is-3">You need to register"</h1>
+      <h1 className="title is-3">You need to register</h1>
 
       <div className="field">
         <label className="label" htmlFor="user-email"> Email </label>
@@ -19,7 +19,7 @@
           />
 
           <span className="icon is-small is-left">
-            <i className="fas fa-envelope" />
+            <i className="fas fa-envelope"></i>
           </span>
         </div>
 
